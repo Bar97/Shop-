@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Կոմբո փոքր",
+    "src": "https://menu.am/resources/default/img/restaurants/big/1630907125957-1416.jpeg",
+    "price": "4100դրամ"
+  },
+  {
+    "name": "Կոմբո միջին",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1640090186351-1416.jpg",
+    "price": "6300դրամ"
+  },
+  {
+    "name": "Կոմբո մեծ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1640090403239-1416.jpg",
+    "price": "8500դրամ"
+  },
+  {
+    "name": "Պապա Պիցցա 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1640090705727-1416.jpg",
+    "price": "2200դրամ"
+  },
+  {
+    "name": "ՊաՊա պիցցա 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557226138-2305.jpeg",
+    "price": "3200դրամ"
+  },
+  {
+    "name": "ՊաՊա պիցցա 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557224710-6576.jpeg",
+    "price": "3800դրամ"
+  },
+  {
+    "name": "Պիցցա Պեպերոնի 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557224745-2674.jpeg",
+    "price": "2000դրամ"
+  },
+  {
+    "name": "Պիցցա Պեպերոնի 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557226194-0804.jpeg",
+    "price": "2800դրամ"
+  },
+  {
+    "name": "Պիցցա Պեպերոնի 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557224779-717.jpeg",
+    "price": "3500դրամ"
+  },
+  {
+    "name": "Պիցցա Պեպերոնի լոլիկով 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557224826-4558.jpeg",
+    "price": "2200դրամ"
+  },
+  {
+    "name": "Պիցցա Պեպերոնի լոլիկով 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1568975609-2453.jpeg",
+    "price": "3000դրամ"
+  },
+  {
+    "name": "Պիցցա Պեպերոնի լոլիկով 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1569478036-8461.jpeg",
+    "price": "3700դրամ"
+  },
+  {
+    "name": "Սուպերմսային պիցցա 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1568975415-8293.jpeg",
+    "price": "2200դրամ"
+  },
+  {
+    "name": "Պիցցա Կրկնակի Պեպերոնի 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557226332-7045.jpeg",
+    "price": "2400դրամ"
+  },
+  {
+    "name": "Պիցցա Կրկնակի Պեպերոնի 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557226524-9816.jpeg",
+    "price": "3200դրամ"
+  },
+  {
+    "name": "Պիցցա Կրկնակի Պեպերոնի 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557224850-7941.jpeg",
+    "price": "4200դրամ"
+  },
+  {
+    "name": "Պիցցա Իսպանական 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557224878-2678.jpeg",
+    "price": "2400դրամ"
+  },
+  {
+    "name": "Պիցցա Իսպանական 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1570431323-6317.jpeg",
+    "price": "3600դրամ"
+  },
+  {
+    "name": "Պիցցա Իսպանական 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1570431068-4538.jpeg",
+    "price": "4400դրամ"
+  },
+  {
+    "name": "Պիցցա Ասորտի 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1570431126-5444.jpeg",
+    "price": "2200դրամ"
+  },
+  {
+    "name": "Պիցցա Ասորտի 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1583739562-7918.jpeg",
+    "price": "3100դրամ"
+  },
+  {
+    "name": "Պիցցա Ասորտի 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1583739383-7935.jpeg",
+    "price": "3800դրամ"
+  },
+  {
+    "name": "Պիցցա Մարգարիտա 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1583739461-307.jpeg",
+    "price": "1700դրամ"
+  },
+  {
+    "name": "Պիցցա Մարգարիտա 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1637755489517-1416.jpg",
+    "price": "2300դրամ"
+  },
+  {
+    "name": "Պիցցա Մարգարիտա 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1637755499329-1416.jpg",
+    "price": "2800դրամ"
+  },
+  {
+    "name": "Պիցցա Պեպերոնի կծու 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1637755512108-1416.jpg",
+    "price": "2100դրամ"
+  },
+  {
+    "name": "Պիցցա Պեպերոնի կծու 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557226285-0893.jpeg",
+    "price": "2900դրամ"
+  },
+  {
+    "name": "Պիցցա Պեպերոնի կծու 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557224987-9747.jpeg",
+    "price": "3700դրամ"
+  },
+  {
+    "name": "Պիցցա խոզապուխտով և պանրով 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225009-7853.jpeg",
+    "price": "2700դրամ"
+  },
+  {
+    "name": "Պիցցա խոզապուխտով և պանրով 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1569478007-1423.jpeg",
+    "price": "3400դրամ"
+  },
+  {
+    "name": "Պիցցա հավի մսով և պանրով 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557827508-9115.jpeg",
+    "price": "2900դրամ"
+  },
+  {
+    "name": "Պիցցա հավի մսով և պանրով 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557294674-1018.jpeg",
+    "price": "3500դրամ"
+  },
+  {
+    "name": "Պիցցա Իտալական 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1623397458298-1416.jpeg",
+    "price": "2100դրամ"
+  },
+  {
+    "name": "Պիցցա Իտալական 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557226765-4144.jpeg",
+    "price": "2900դրամ"
+  },
+  {
+    "name": "Պիցցա Իտալական 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225127-4842.jpeg",
+    "price": "3800դրամ"
+  },
+  {
+    "name": "Ամառային պիցցա 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225145-7773.jpeg",
+    "price": "2000դրամ"
+  },
+  {
+    "name": "Ամառային պիցցա 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1564742954-931.jpeg",
+    "price": "2700դրամ"
+  },
+  {
+    "name": "Ամառային պիցցա 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1564743027-2404.jpeg",
+    "price": "3300դրամ"
+  },
+  {
+    "name": "Պիցցա Մսի տեսականի 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1564743083-6424.jpeg",
+    "price": "2000դրամ"
+  },
+  {
+    "name": "Պիցցա մսի տեսականի 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557226798-5179.jpeg",
+    "price": "2800դրամ"
+  },
+  {
+    "name": "Պիցցա մսի տեսականի 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225236-8952.jpeg",
+    "price": "3500դրամ"
+  },
+  {
+    "name": "Պիցցա հավի մսով և խոզապուխտով 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225279-5584.jpeg",
+    "price": "2200դրամ"
+  },
+  {
+    "name": "Պիցցա հավի մսով և խոզապուխտով 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557233365-1709.jpeg",
+    "price": "2900դրամ"
+  },
+  {
+    "name": "Պիցցա հավի մսով և խոզապուխտով 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557233227-948.jpeg",
+    "price": "3600դրամ"
+  },
+  {
+    "name": "Պիցցա Բանջարեղենային 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557233292-3907.jpeg",
+    "price": "1700դրամ"
+  },
+  {
+    "name": "Պիցցա բանջարեղենային 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557226629-3856.jpeg",
+    "price": "2400դրամ"
+  },
+  {
+    "name": "Պիցցա բանջարեղենային 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225436-3245.jpeg",
+    "price": "2900դրամ"
+  },
+  {
+    "name": "Պիցցա բեկոնով 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225473-3434.jpeg",
+    "price": "2200դրամ"
+  },
+  {
+    "name": "Պիցցա բեկոնով 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557226730-6967.jpeg",
+    "price": "3000դրամ"
+  },
+  {
+    "name": "Պիցցա բեկոնով 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225494-5153.jpeg",
+    "price": "3900դրամ"
+  },
+  {
+    "name": "Պիցցա Մեքսիկական 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225524-1105.jpeg",
+    "price": "2000դրամ"
+  },
+  {
+    "name": "Պիցցա Մեքսիկական 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557226578-4596.jpeg",
+    "price": "2800դրամ"
+  },
+  {
+    "name": "Պիցցա Մեքսիկական 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225548-9686.jpeg",
+    "price": "3500դրամ"
+  },
+  {
+    "name": "Պիցցա հավի մսով և սնկով 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225571-4231.jpeg",
+    "price": "2200դրամ"
+  },
+  {
+    "name": "Պիցցա հավի մսով և սնկով 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557226970-7266.jpeg",
+    "price": "2900դրամ"
+  },
+  {
+    "name": "Պիցցա հավի մսով և սնկով 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225598-1703.jpeg",
+    "price": "3600դրամ"
+  },
+  {
+    "name": "Պիցցա պանրով 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225636-4249.jpeg",
+    "price": "1800դրամ"
+  },
+  {
+    "name": "Պիցցա պանրով 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557226862-4231.jpeg",
+    "price": "2500դրամ"
+  },
+  {
+    "name": "Պիցցա պանրով 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225670-6038.jpeg",
+    "price": "3100դրամ"
+  },
+  {
+    "name": "Պիցցա սնկով և խոզապուխտով 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225707-0882.jpeg",
+    "price": "2100դրամ"
+  },
+  {
+    "name": "Պիցցա սնկով և խոզապուխտով 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557226700-6602.jpeg",
+    "price": "2800դրամ"
+  },
+  {
+    "name": "Պիցցա սնկով և խոզապուխտով 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225734-2536.jpeg",
+    "price": "3500դրամ"
+  },
+  {
+    "name": "Պիցցա 4 պանիր 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225757-249.jpeg",
+    "price": "2600դրամ"
+  },
+  {
+    "name": "Պիցցա 4 պանիր 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557226370-6655.jpeg",
+    "price": "3700դրամ"
+  },
+  {
+    "name": "Պիցցա 4 պանիր 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225782-4887.jpeg",
+    "price": "4300դրամ"
+  },
+  {
+    "name": "Սուպերմսային պիցցա 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225812-8896.jpeg",
+    "price": "3100դրամ"
+  },
+  {
+    "name": "Սուպերմսային պիցցա 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225856-0942.jpeg",
+    "price": "3900դրամ"
+  },
+  {
+    "name": "Պիցցա Որսորդական 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225884-4447.jpeg",
+    "price": "1900դրամ"
+  },
+  {
+    "name": "Պիցցա Որսորդական 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557227072-9241.jpeg",
+    "price": "2900դրամ"
+  },
+  {
+    "name": "Պիցցա բեկոնով և խոզապուխտով 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1575525759-5591.jpeg",
+    "price": "2200դրամ"
+  },
+  {
+    "name": "Պիցցա բեկոնով և խոզապուխտով 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557227223-0842.jpeg",
+    "price": "3600դրամ"
+  },
+  {
+    "name": "Պիցցա 4x4, 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1581316070-4554.jpeg",
+    "price": "3100դրամ"
+  },
+  {
+    "name": "Պիցցա 4x4, 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225934-1877.jpeg",
+    "price": "4100դրամ"
+  },
+  {
+    "name": "Պիցցա Հավայան 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557225958-5769.jpeg",
+    "price": "2100դրամ"
+  },
+  {
+    "name": "Պիցցա Հավայան 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557226930-747.jpeg",
+    "price": "3000դրամ"
+  },
+  {
+    "name": "Պիցցա Հավայան 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557226033-3299.jpeg",
+    "price": "3700դրամ"
+  },
+  {
+    "name": "Պիցցա Կրկնակի Մոցարելլա 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1557226086-0451.jpeg",
+    "price": "3300դրամ"
+  },
+  {
+    "name": "Պիցցա Կրկնակի Մոցարելլա 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1581316010-7168.jpeg",
+    "price": "3900դրամ"
+  },
+  {
+    "name": "Պիցցա Բանջարեղենային Հունական 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1560578128-7839.jpeg",
+    "price": "1800դրամ"
+  },
+  {
+    "name": "Պիցցա Բանջարեղենային հունական 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1564990754-0477.jpeg",
+    "price": "2400դրամ"
+  },
+  {
+    "name": "Պիցցա Բանջարեղենային Հունական 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1564990629-768.jpeg",
+    "price": "2900դրամ"
+  },
+  {
+    "name": "Պիցցա Հավայան խոզապուխտով 25սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1564990706-5163.jpeg",
+    "price": "2000դրամ"
+  },
+  {
+    "name": "Պիցցա Հավայան խոզապուխտով 30սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1564991252-9055.jpeg",
+    "price": "2600դրամ"
+  },
+  {
+    "name": "Պիցցա Հավայան խոզապուխտով 35սմ",
+    "src": "https://menu.am/resources/default/img/restaurant_products/big/1564990999-5768.jpeg",
+    "price": "3300դրամ"
+  }
+]

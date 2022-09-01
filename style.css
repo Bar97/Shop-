@@ -1,0 +1,180 @@
+body {
+  background-image: url(../Promises/images/gta2.jpg);
+  background-color: whitesmoke;
+  width: 100%;
+}
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 100px;
+  overflow: hidden;
+  justify-content: center;
+}
+*/ * {
+  padding: 10px;
+  margin: 10px;
+  overflow: hidden;
+}
+.Vaxo {
+  overflow: hidden;
+  padding: 10px;
+  position: relative;
+  display: block;
+
+  border-radius: 5%;
+  width: 400px;
+  height: 395px;
+}
+#anun {
+  color: brown;
+
+  margin-bottom: 80px;
+  font-family: fantasy;
+  text-align: center;
+  margin-top: 100px;
+  height: 50px;
+  font-size: 70px;
+}
+
+.products {
+  width: 425px;
+  height: 500px;
+  border: solid 2px red;
+  overflow: hidden;
+
+  flex-wrap: wrap;
+  gap: 100px;
+  justify-content: space-between;
+  border-radius: 5%;
+  background-color: white;
+  opacity: 0.9;
+}
+.names {
+  color: black;
+  text-align: center;
+  font-size: 135%;
+  font-family: initial;
+}
+.prices {
+  font-size: large;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  margin-left: 20px;
+  color: brown;
+}
+.avatar {
+  margin-right: 60px;
+}
+
+.add {
+  margin-left: 360px;
+  height: 35px;
+  width: 35px;
+}
+#inp {
+  margin-top: 47px;
+  margin-left: 560px;
+  float: left;
+  border: solid 2px black;
+  border-radius: 8px;
+
+  height: 50px;
+  width: 500px;
+  float: left;
+  opacity: 0.8;
+}
+/* .search > input {
+  border: solid 1px red;
+  border-radius: 8px;
+
+  margin-left: 80px;
+  height: 50px;
+  width: 500px;
+  float: left;
+} */
+
+#Button {
+  margin-top: 47px;
+  margin-left: 7px;
+  height: 56px;
+  width: 65px;
+
+  overflow: hidden;
+  border-radius: 7px;
+  /* border: 1px red; */
+  background: url(../Promises/images/istockphoto-1060609762-170667a.jpg);
+
+  background-size: 100%;
+  /* background-position: 50%; */
+  opacity: 0.8;
+  float: left;
+}
+
+#Button:hover {
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+#inp:hover {
+  opacity: 1;
+}
+.products:hover {
+  opacity: 1;
+}
+.add:hover {
+  transform: scale(1.2);
+}
+.bassket {
+  margin-top: 50px;
+  overflow: hidden;
+  margin-left: 400px;
+  width: 110px;
+  height: 90px;
+  display: inline-block;
+}
+.img-size {
+  height: 50px;
+  width: 50px;
+
+  border-radius: 3px;
+  opacity: 0.8;
+  background-size: cover;
+  /* position: fixed; */
+}
+
+.img-size:hover {
+  transform: scale(1.1);
+  opacity: 1;
+}
+
+.icon-basket {
+  text-align: center;
+  display: none;
+
+  border-radius: 20px;
+  position: static;
+  margin-left: 1110px;
+  width: 490px;
+  height: 555px;
+  border: 5px red;
+
+  overflow: scroll;
+  color: red;
+}
+.openBaskIcon {
+  display: flex;
+}
+
+/* .closeBask {
+  display: none;
+} */
+.closeBasketText {
+  font-size: 18px;
+}
+
+.count {
+  border: 1px solid;
+  border-radius: 5px;
+  background-color: white;
+  color: blue;
+}
